@@ -1,0 +1,22 @@
+{
+  "name": "node-practice",
+  "version": "1.0.0",
+  "description": "This is a practice setup for node js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShivamSharma3589/node-practice.git"
+  },
+  "author": "Shivam Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShivamSharma3589/node-practice/issues"
+  },
+  "homepage": "https://github.com/ShivamSharma3589/node-practice#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
